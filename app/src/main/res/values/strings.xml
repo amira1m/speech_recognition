@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_here" translatable="false">Click here</string>
+    <string name="text_view" translatable="false">Text will appear here</string>
+    <string name="note" translatable="false">Language is based on your device default language</string>
+
+</resources>

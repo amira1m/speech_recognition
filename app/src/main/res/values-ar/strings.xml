@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_here">اضغط هنا</string>
+    <string name="text_view">سوف يظهر النص هنا</string>
+    <string name="note">اللغة تعتمد على لغة الجهاز الافتراضية</string>
+</resources>
